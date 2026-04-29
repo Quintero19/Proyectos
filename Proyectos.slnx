@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Casting/Casting.csproj" Id="7aca5d02-6e8b-4d73-845a-7b0f44a0724a" />
   <Project Path="Concatenacion/Concatenacion.csproj" />
   <Project Path="Proyectos/Proyectos.csproj" />
 </Solution>
