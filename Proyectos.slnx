@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="Concatenacion/Concatenacion.csproj" />
   <Project Path="Proyectos/Proyectos.csproj" />
 </Solution>
