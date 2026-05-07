@@ -1,0 +1,11 @@
+﻿Console.WriteLine("========= INTRODUZCA SUS DATOS ==========");
+Console.WriteLine("Introduzca su nombre.......");
+string nombre = Console.ReadLine();
+Console.WriteLine("Introduzca su Edad.......");
+int Edad = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Introduzca su Salario......");
+double salario = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("=============================");
+Console.WriteLine("Nombre: " + nombre);
+Console.WriteLine("Edad: " + Edad);
+Console.WriteLine("Salario: " + salario);
