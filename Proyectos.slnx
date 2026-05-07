@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="Casting/Casting.csproj" Id="7aca5d02-6e8b-4d73-845a-7b0f44a0724a" />
   <Project Path="Concatenacion/Concatenacion.csproj" />
+  <Project Path="Entrada de Datos/Entrada de Datos.csproj" Id="17c8f290-6d05-4c42-840f-f1cb3e6cb0f4" />
+  <Project Path="Operadores aritmeticos/Operadores aritmeticos.csproj" Id="9711ce79-2c4a-4094-875f-2b6b55e4b7c6" />
   <Project Path="Proyectos/Proyectos.csproj" />
 </Solution>
