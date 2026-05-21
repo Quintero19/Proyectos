@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Practica de Arrays/">
+    <Project Path="Ejercicio de practica/Ejercicio de practica.csproj" Id="20aa85ec-07bf-4eef-bd41-4d32b2157dea" />
+  </Folder>
   <Project Path="Arrays-Operaciones/Arrays-Operaciones.csproj" Id="f1d6a2e2-cfff-4064-99d6-06090087f1cf" />
   <Project Path="Arrays/Arrays.csproj" Id="089fa391-3d42-4448-a643-dfccca1fef8e" />
   <Project Path="Bucle Break-Continue/Bucle Break-Continue.csproj" Id="3d04b8ff-db9e-4efa-955d-711a910bf232" />
@@ -12,6 +15,7 @@
   <Project Path="Condicional Switch - Case/Condicional Switch - Case.csproj" Id="89ef9a20-e5c8-41e6-acb2-867d59257e5c" />
   <Project Path="Condicionales IF, ELSE,  ELSE IF/Condicionales IF, ELSE,  ELSE IF.csproj" Id="69b72bde-106c-4594-820d-b033991daae7" />
   <Project Path="Condicionales Switch Expresiones/Condicionales Switch Expresiones.csproj" Id="9b2a1769-012f-416b-b0d1-99b81b962717" />
+  <Project Path="Ejercicio 3/Ejercicio 3.csproj" Id="0e8417c9-6a66-4244-9ec5-bdf3600b557b" />
   <Project Path="Ejercicios de practica 2/Ejercicios de practica 2.csproj" Id="46aede6d-d4b1-4fdc-8c29-e9a9709dd579" />
   <Project Path="Ejercicios de practica/Ejercicios de practica.csproj" Id="e6b3930b-9400-4d65-92d4-c19240166060" />
   <Project Path="Entrada de Datos/Entrada de Datos.csproj" Id="17c8f290-6d05-4c42-840f-f1cb3e6cb0f4" />
