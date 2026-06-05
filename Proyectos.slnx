@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Ejercicio cajero automatico/">
+    <Project Path="Cajero Automatico/Cajero Automatico.csproj" Id="4bc99bd0-09db-404e-875c-1cdfcbf0696e" />
+  </Folder>
   <Folder Name="/Ejercicos de clases/">
     <Project Path="Ejercicio Clases/Ejercicio Clases.csproj" Id="6db58b20-6982-4002-9a04-f1bc8261a469" />
   </Folder>
